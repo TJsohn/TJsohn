@@ -7,3 +7,19 @@
 </h1>
 
 ### An aspiring full-stack web developer passionate about building beautiful, functional, and user-centric web applications.
+
+- 🌱 I’m currently learning **[Full Stack Web Development @ Business College Helsinki](https://en.bc.fi/)**
+- 💬 Ask me about **JavaScript, React, HTML/CSS...or anything [here](https://github.com/{TJsohn}/{TJsohn}/issues)**
+
+<br>
+
+<div align="center">
+  <a href="sohntaejeong@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/tjsohn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
