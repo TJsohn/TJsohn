@@ -17,7 +17,7 @@
   <a href="mailto:sohntaejeong@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/tjsohn/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/tjsohn/" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
