@@ -3,4 +3,4 @@
   <img src="https://profile-counter.glitch.me/{TJsohn}/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/TJsohn/TJsohn/blob/main/github_profile.jpg" width="300" alt="myself in a radio studio">
+<img src="https://github.com/TJsohn/TJsohn/blob/main/github_profile3.jpg" width="500" alt="myself">
