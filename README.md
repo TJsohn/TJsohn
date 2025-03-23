@@ -23,3 +23,13 @@
 </div>
 
 <hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,php,git,figma" />
+</p>
+
+<hr>
