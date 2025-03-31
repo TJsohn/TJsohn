@@ -6,8 +6,8 @@
 
 Hi, I am TJ, an aspiring full stack web developer studying at [Business College Helsinki](https://en.bc.fi/).
 
-- I studied International Development and Cooperation and worked at the Ministry of Foreign Affairs(Republic of Korea) and the Korean embassy in Finland.
-- Also, I worked for Statup Campus in Korea and in a convention/exhibition organizing industry.
+- MA in International Development and Cooperation and former researcher at the Ministry of Foreign Affairs(Republic of Korea) and the Korean embassy in Finland
+- Work experience in statups/innovations and convention/exhibition organizing industry
 > I trust that the dots will somehow connect in my future.
 
 - 💬 Ask me about **JavaScript, React, HTML/CSS...or anything through my email or LinkedIn below.
