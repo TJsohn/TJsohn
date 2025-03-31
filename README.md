@@ -4,7 +4,7 @@
 
 ### TJ Sohn - @TJsohn
 
-### An aspiring full-stack web developer passionate about building beautiful, functional, and user-centric web applications.
+Hi, I am TJ, an aspiring full stack web developer studying at [Business College Helsinki](https://en.bc.fi/).
 
 - 🌱 I’m currently learning **[Full Stack Web Development @ Business College Helsinki]**
 - 💬 Ask me about **JavaScript, React, HTML/CSS...or anything through my email or LinkedIn below.
