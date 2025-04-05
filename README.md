@@ -6,24 +6,15 @@
 
 Hi, I am TJ, an aspiring full stack web developer studying at [Business College Helsinki](https://en.bc.fi/).
 
-- MA in International Development and Cooperation and former researcher at the Ministry of Foreign Affairs(Republic of Korea) and the Korean embassy in Finland
+- MA in International Development and Cooperation and a former researcher at the Ministry of Foreign Affairs(Republic of Korea) and the Korean embassy in Finland
 - Work experience in statups/innovations and convention/exhibition organizing industry
 > I trust that the dots will somehow connect in my future.
 
-- 💬 Ask me about **JavaScript, React, HTML/CSS...or anything through my email or LinkedIn below.
+- 💬 Ask me about **JavaScript, React, HTML/CSS, PHP...or anything through my LinkedIn or Instagram below:
+  🇰🇷🇬🇧
 
-<br>
-
-<div align="center">
-  <a href="mailto:sohntaejeong@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/tjsohn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<hr>
+- [LinkedIn](https://www.linkedin.com/in/tjsohn/)
+- [Instagram](https://www.instagram.com/realzzungeffect/)
 
 ## 🛠️ Languages and Tools
 
