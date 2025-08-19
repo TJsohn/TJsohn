@@ -18,11 +18,7 @@ Hi, I am TJ, an aspiring full stack web developer studying at [Business College 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJsohn&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="TJsohn's GitHub Stats" />
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=TJsohn&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/TJsohn"
-  width="600"
-  height="300"
-/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{TJsohn}"/>
 </a>
 
