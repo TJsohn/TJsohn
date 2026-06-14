@@ -4,13 +4,17 @@
 
 ### TJ Sohn - @TJsohn
 
-Hi, I am TJ, an aspiring full stack web developer studying at [Business College Helsinki](https://en.bc.fi/).
+Hi, I am TJ, a Computer Science student and Full-Stack Developer specializing in AI and modern web ecosystems.
 
-- MA in International Development and Cooperation and a former researcher at the Ministry of Foreign Affairs (Republic of Korea) and the Korean embassy in Finland
-- Work experience in startups/innovations and convention/exhibition organizing industry  
-> I trust that the dots will somehow connect in my future.
+🎓 CS Student @ Korea National Open University (2026~)
+🤖 AI Trainer @ micro1 (Present)
+💻 Former Front-end S/W Developer Intern @ Unelma Platforms
+🌍 MA in International Development | Former Researcher @ MOFA & Korean Embassy in Finland
 
-💬 Ask me about **JavaScript, React, HTML/CSS, PHP... or anything through my LinkedIn or Instagram below**:  
+I trust that the dots will somehow connect in my future. 🔗
+
+💬 Ask me about JavaScript, React, TypeScript, Node.js, PHP... 
+📧 Connect with me via LinkedIn or Instagram below!
 🇰🇷🇬🇧
 - [LinkedIn](https://www.linkedin.com/in/tjsohn/)
 - [Instagram](https://www.instagram.com/realzzungeffect/)
