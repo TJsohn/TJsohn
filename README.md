@@ -6,10 +6,10 @@
 
 Hi, I am TJ, a Computer Science student and Full-Stack Developer specializing in AI and modern web ecosystems.
 
-🎓 CS Student @ Korea National Open University (2026~)
-🤖 AI Trainer @ micro1 (Present)
-💻 Former Front-end S/W Developer Intern @ Unelma Platforms
-🌍 MA in International Development | Former Researcher @ MOFA & Korean Embassy in Finland
+- 🎓 CS Student @ Korea National Open University (2026~)
+- 🤖 AI Trainer @ micro1 (Present)
+- 💻 Former Front-end S/W Developer Intern @ Unelma Platforms
+- 🌍 MA in International Development | Former Researcher @ MOFA & Korean Embassy in Finland
 
 I trust that the dots will somehow connect in my future. 🔗
 
