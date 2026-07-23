@@ -6,7 +6,7 @@
 
 Hi, I am TJ, a Computer Science student and Full-Stack Developer specializing in AI integrations and modern web ecosystems.
 
-🚀 **[View My Live Portfolio](https://your-portfolio-url.vercel.app)** *(Replace with your actual Vercel link!)*
+🚀 **[View My Live Portfolio](https://my-portfolio-frontend-nextjs.vercel.app/)**
 
 - 🎓 CS Student @ Korea National Open University (2026~)
 - 🤖 AI Trainer @ micro1 (Present)
