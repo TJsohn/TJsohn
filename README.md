@@ -2,16 +2,17 @@
   <img src="https://github.com/TJsohn/TJsohn/blob/main/github_profile2.jpg" width="300" alt="TJ Sohn">
 </p>
 
-### TJ Sohn - @TJsohn
+### TJ Sohn - Full-Stack Web Developer
 
-Hi, I am TJ, a Computer Science student and Full-Stack Developer specializing in AI integrations and modern web ecosystems.
+Hi, I am TJ, a Full-Stack Web Developer specializing in React, TypeScript, and AI-driven web automation.
 
 🚀 **[View My Live Portfolio](https://my-portfolio-frontend-nextjs.vercel.app/)**
 
-- 🎓 CS Student @ Korea National Open University (2026~)
-- 🤖 AI Trainer @ micro1 (Present)
-- 💻 Former Front-end S/W Developer Intern @ Unelma Platforms
-- 🌍 MA in International Development | Former Researcher @ MOFA & Korean Embassy in Finland
+- 🎓 **Full-Stack Web Development** @ Business College Helsinki
+- 🎓 **CS Student** @ Korea National Open University
+- 🤖 **AI Trainer** @ micro1 (Present)
+- 💻 **Former Frontend Developer Intern** @ Unelma Platforms
+- 🌍 **MA in International Development** | Former Researcher @ MOFA & Korean Embassy in Finland
 
 I trust that the dots will somehow connect in my future. 🔗
 
@@ -30,7 +31,7 @@ I trust that the dots will somehow connect in my future. 🔗
 <br>
 
 <!-- GitHub Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJsohn&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="GitHub Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJsohn&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400" alt="GitHub Top Languages" />
 
 <br>
 
