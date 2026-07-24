@@ -6,7 +6,7 @@
 
 Hi, I am TJ, a Full-Stack Web Developer specializing in React, TypeScript, and AI-driven web automation.
 
-🚀 **[View My Live Portfolio ↗](https://my-portfolio-frontend-nextjs.vercel.app/)**
+🚀 **[View My Live Portfolio ↗](https://tjsohn.vercel.app)**
 
 - 🎓 **Full-Stack Web Development** @ Business College Helsinki
 - 🎓 **CS Student** @ Korea National Open University
